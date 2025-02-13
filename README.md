@@ -43,10 +43,7 @@ Understanding customer behavior and preferences.
 Potential strategies for improving efficiency and profitability.
 
 Technologies Used:
-Python
-Pandas   
-NumPy   
-Matplotlib   
-Seaborn (Optional)   
-Scikit-learn (Optional, for demand forecasting)
-
+Python,
+Pandas ,  
+NumPy,
+Matplotlib,   
